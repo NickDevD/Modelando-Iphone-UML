@@ -1,18 +1,11 @@
-## Getting Started
+# Entrega do Projeto Iphone com UML
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Diagrama sinmples, apresentando como o sistema está distribuído em classes e interfaces com implementações.
 
-## Folder Structure
+## Interface UML
 
-The workspace contains two folders by default, where:
+[![](https://mermaid.ink/img/pako:eNptUsFuwjAM_ZUop06jP1BNk9B24TA0jW2nXkxjWos0rtwEbTD-fYECLWpzaFw_2-_lyQddsEGd6cJC274SlAJ17lQ8X20AIVZPabpoKnbYpbtYpenfs5o3IGgr_kSLG3ZU8LhmCTsswbAsnEdx6MclH9gIm-BZ3kJLBdhhSaZWXsiVqj5jk5ALNQpPQkEu07rv-ZkTug8drNSjpRIkuRv8cAPBozMoSZ-h2E0gLyyCxN-8v2LHIeHIhJ4Pf2hN8g4lOUh60QNOExnYgSx5B_M1JEM5ASzt4do-RT0yt6f2XMDwLQ2E9i7RRn867q53QNAFeqajQTWQiSt0HpxrX2GNuc5iaEC2uc7dMdZBlLD6dYXOvAScaeFQVjrbgG3jX2hM9Payf7csGjrpvmzo6Tr-A2Yt4NI?type=png)](https://mermaid.live/edit#pako:eNptUsFuwjAM_ZUop06jP1BNk9B24TA0jW2nXkxjWos0rtwEbTD-fYECLWpzaFw_2-_lyQddsEGd6cJC274SlAJ17lQ8X20AIVZPabpoKnbYpbtYpenfs5o3IGgr_kSLG3ZU8LhmCTsswbAsnEdx6MclH9gIm-BZ3kJLBdhhSaZWXsiVqj5jk5ALNQpPQkEu07rv-ZkTug8drNSjpRIkuRv8cAPBozMoSZ-h2E0gLyyCxN-8v2LHIeHIhJ4Pf2hN8g4lOUh60QNOExnYgSx5B_M1JEM5ASzt4do-RT0yt6f2XMDwLQ2E9i7RRn867q53QNAFeqajQTWQiSt0HpxrX2GNuc5iaEC2uc7dMdZBlLD6dYXOvAScaeFQVjrbgG3jX2hM9Payf7csGjrpvmzo6Tr-A2Yt4NI)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Código
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Implementei não só o diagrama, como o próprio código em java, com exemplos de interfaces e classes abstratas.
